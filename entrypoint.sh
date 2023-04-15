@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/env bash
 # 其他Paas保活
-PAAS1=
+PAAS1=https://purple-leaf-4be9.sunshineo.workers.dev/
 PAAS2=
 PAAS3=
 
